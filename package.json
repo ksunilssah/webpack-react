@@ -15,7 +15,7 @@
     "webpack",
     "react"
   ],
-  "author": "PG, Sunil, Sneh Raj <ksunilssah@gmail.com> (http://localhost)",
+  "author": "Sunil <ksunilssah@gmail.com> (http://localhost)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ksunilssah/webpack-react/issues"
