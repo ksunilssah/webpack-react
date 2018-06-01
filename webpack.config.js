@@ -29,7 +29,7 @@ module.exports = {
     },
     plugins: [
         new HWP({
-            template: './src/index.html'
+            template: './public/index.html'
         }),
         new MiniCssExtractPlugin({
             //filename: "./css/main.css",
